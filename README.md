@@ -1,10 +1,11 @@
 Requires discord.py loaded.
 
-Need to set the path to song files in Main.py.
+Changes needed for main.py for use:
 
-Need to add songs to IntroSongs file, or equivalent
+Need to add songs to a folder, and then set the path to variable path_songs
 
-Need to set up the bot token in Discord applications.
+
+Need to set up the bot token in Discord applications, then set it in bot_token variable
 
 Need to set member IDs to the names of songs plus file types in the dictionary "intros". For example, if the file is named "Song", it would be "Song.typeoffile". 
 
