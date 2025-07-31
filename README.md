@@ -11,4 +11,4 @@ Need to set member IDs to the names of songs plus file types in the dictionary "
 
 Need to set sup_allowed_users to your own id, unless you want others shutting down the bot.
 
-Sorry if this doesn't made much sense, I'm new
+Sorry if this doesn't made much sense, first git post!!
